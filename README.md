@@ -17,7 +17,7 @@ Sistema web para la gestión de Recursos Humanos, desarrollado en C# con ASP.NET
 - Empleados
 - Departamentos
 - Puestos
-- Vacaciones (solicitar, aprobar)
+- Vacaciones
 - Usuarios y Roles
 - Constancias
 - Cálculo de prestaciones
@@ -36,4 +36,4 @@ Sistema web para la gestión de Recursos Humanos, desarrollado en C# con ASP.NET
 
 ## 👩‍💻 Autora
 
-Vanessa Rodriguez - Ingenieria en Sistemas
+Vanessa Rodriguez
