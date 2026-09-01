@@ -28,7 +28,7 @@ Sistema web para la gestión de Recursos Humanos, desarrollado en C# con ASP.NET
 - [x] Estructura del proyecto (Models, Controllers, Views)
 - [x] Modelos de datos (Empleado, Departamento, Puesto, Vacacion, Constancia, Usuario, Rol)
 - [x] Configuración de Entity Framework Core
-- [ ] Conexión a base de datos y migraciones
+- [x] Conexión a base de datos y migraciones
 - [ ] Repositorios
 - [ ] Controladores y vistas por módulo
 - [ ] Autenticación y roles
