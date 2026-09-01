@@ -26,7 +26,7 @@ Sistema web para la gestión de Recursos Humanos, desarrollado en C# con ASP.NET
 - Incapacidades
 - Permisos
 - Historial
-- Auditorias
+- Auditoria
 
 ## 📌 Estado actual
 
