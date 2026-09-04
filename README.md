@@ -22,6 +22,11 @@ Sistema web para la gestión de Recursos Humanos, desarrollado en C# con ASP.NET
 - Constancias
 - Cálculo de prestaciones
 - Reportes
+- Expedientes
+- Incapacidades
+- Permisos
+- Historial
+- Auditoria
 
 ## 📌 Estado actual
 
