@@ -9,6 +9,6 @@
         public string Contrasena { get; set; }
 
         public int RolId { get; set; }
-        public Rol Rol { get; set; }
+        public Roles Rol { get; set; }
     }
 }
